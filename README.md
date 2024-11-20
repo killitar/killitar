@@ -1,4 +1,13 @@
-## Hi there 👋
+<a href=#><img src="contributions.svg"></a>
+
+<div float="right"> 
+  
+![killitar's github stats](https://github-readme-stats.vercel.app/api?username=killitar&show_icons=true&theme=dark) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=killitar&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+ </div>
+ 
+ ![](https://komarev.com/ghpvc/?username=killitar&color=lightgrey)
 
 <!--
 **killitar/killitar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
