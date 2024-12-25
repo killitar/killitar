@@ -7,19 +7,19 @@
 
  </div>
  
- ![](https://komarev.com/ghpvc/?username=killitar&color=lightgrey)
+ 
 
-<!--
-**killitar/killitar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 🛠 Tech Stack
 
-Here are some ideas to get you started:
+<code><img height="20" src="https://api.iconify.design/logos-typescript-icon.svg"></code>&nbsp;
+<code><img height="20" src="https://api.iconify.design/logos-lua.svg"></code>&nbsp;
+<code><img height="20" src="https://api.iconify.design/logos-vitejs.svg"></code>&nbsp;
+<code><img height="20" src="https://api.iconify.design/logos:vue.svg"></code>&nbsp;
+<code><img height="20" src="https://api.iconify.design/logos:nuxt-icon.svg"></code>&nbsp;
+<code><img height="20" src="https://api.iconify.design/logos-unocss.svg"></code>&nbsp;
+<code><img height="20" src="https://api.iconify.design/logos-vitest.svg"></code>&nbsp;
+<code><img height="20" src="https://api.iconify.design/logos-pnpm.svg"></code>&nbsp;
+<code><img height="20" src="https://api.iconify.design/logos-nodejs-icon.svg"></code>
+<code><img height="20" src="https://api.iconify.design/logos-react.svg"></code>&nbsp;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://komarev.com/ghpvc/?username=killitar&color=lightgrey)
